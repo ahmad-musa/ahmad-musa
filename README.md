@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmad-musa
 - 👀 I’m interested in web development
-- 🌱 Currently going on HTML5, CSS3, Bootstrap and JavaScript.
+- 🌱 Currently going on HTML5, CSS3, SASS, Bootstrap and JavaScript.
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: dev.official.am@gmail.com
 
